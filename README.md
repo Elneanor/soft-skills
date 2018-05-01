@@ -14,7 +14,7 @@
 
 ## 波波微课公众号
 
-![公众号](image/qrcode_wechat.jpg)
+![公众号](https://github.com/spring2go/core-spring-patterns/raw/master/image/qrcode_wechat.jpg)
 
 ## 官网
 
